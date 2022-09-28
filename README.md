@@ -15,11 +15,6 @@ The application has 2 apis
 * AccountAPI
 * ExchangeAPI
 
-```html
-POST /creditApp/get-credit-result - calculate credit score and returns credit result.
-GET /customer/getByNationalId/{nationalId}" - applies for loan by existing customer.
-GET /customer/{nationalId} - retrieves all loan application for a customer.
-```
 
 ### Tech Stack
 
