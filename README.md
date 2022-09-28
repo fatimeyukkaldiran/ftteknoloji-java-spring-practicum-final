@@ -8,7 +8,7 @@ ___
 This project provides to purchase and sales foreign currency.
 
 ### Project Detail
-[a link](https://github.com/fatimeyukkaldiran/ftteknoloji-java-spring-practicum-final/blob/master/FT-Teknoloji-Final-Project.pdf)
+[Project Detail](https://github.com/fatimeyukkaldiran/ftteknoloji-java-spring-practicum-final/blob/master/FT-Teknoloji-Final-Project.pdf)
 
 ___
 The application has 2 apis
